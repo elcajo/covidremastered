@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/covidremastered/static/css/main.06121709.chunk.css",
+    "main.js": "/covidremastered/static/js/main.9ccb7e54.chunk.js",
+    "main.js.map": "/covidremastered/static/js/main.9ccb7e54.chunk.js.map",
+    "runtime-main.js": "/covidremastered/static/js/runtime-main.d184efab.js",
+    "runtime-main.js.map": "/covidremastered/static/js/runtime-main.d184efab.js.map",
+    "static/js/2.32c35670.chunk.js": "/covidremastered/static/js/2.32c35670.chunk.js",
+    "static/js/2.32c35670.chunk.js.map": "/covidremastered/static/js/2.32c35670.chunk.js.map",
+    "index.html": "/covidremastered/index.html",
+    "static/css/main.06121709.chunk.css.map": "/covidremastered/static/css/main.06121709.chunk.css.map",
+    "static/js/2.32c35670.chunk.js.LICENSE.txt": "/covidremastered/static/js/2.32c35670.chunk.js.LICENSE.txt",
+    "static/media/corona.d6493e61.png": "/covidremastered/static/media/corona.d6493e61.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d184efab.js",
+    "static/js/2.32c35670.chunk.js",
+    "static/css/main.06121709.chunk.css",
+    "static/js/main.9ccb7e54.chunk.js"
+  ]
+}
