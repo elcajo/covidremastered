@@ -1,0 +1,22 @@
+body{
+    background: url(https://images.unsplash.com/flagged/photo-1584036561584-b03c19da874c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1489&q=80);
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.image{
+    width: 20ch;
+    margin-top: 25px !important;
+}
+
+@media ( max-width: 770px ){
+    .container{
+        margin: 0 10%;
+    }
+}

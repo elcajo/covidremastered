@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+    width: 85%;
+    background-color:rgba(255, 255, 255, .9);
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px !important;
+}
+
+@media ( max-width: 770px ){
+    .container{
+        width: 100%;
+    }
+}
